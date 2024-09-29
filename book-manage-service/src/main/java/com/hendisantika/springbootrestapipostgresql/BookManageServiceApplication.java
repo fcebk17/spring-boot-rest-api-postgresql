@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootRestApiPostgresqlApplication {
+public class BookManageServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootRestApiPostgresqlApplication.class, args);
+        SpringApplication.run(BookManageServiceApplication.class, args);
     }
 
 }

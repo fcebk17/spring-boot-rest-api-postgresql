@@ -1,4 +1,4 @@
-package com.hendisantika.springbootrestapipostgresql.entity;
+package com.hendisantika.bookorderservice.entity;
 
 import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;

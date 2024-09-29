@@ -1,13 +1,13 @@
-package com.hendisantika.springbootrestapipostgresql;
+package com.hendisantika.bookorderservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootRestApiPostgresqlApplication {
+public class BookOrderServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootRestApiPostgresqlApplication.class, args);
+        SpringApplication.run(BookOrderServiceApplication.class, args);
     }
 
 }
